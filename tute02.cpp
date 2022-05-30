@@ -31,7 +31,7 @@ int main()
           break;
       case 2 :
           otRate = 1500;
-          break;
+          break; 
       default :
           otRate = 1700;
           break;
